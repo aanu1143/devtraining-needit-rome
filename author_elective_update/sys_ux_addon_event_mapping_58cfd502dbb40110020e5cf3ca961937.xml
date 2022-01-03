@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="DELETE">
+        <active>true</active>
+        <description>Executed when a user clicks a NeedIt Task card</description>
+        <name>NeedIt Task Card Clicked</name>
+        <parent_macroponent display_value="Home">223f9e631b46f41068dd5464604bcb2a</parent_macroponent>
+        <source_da display_value="nit_navigation_action">0787388adb340110020e5cf3ca96190d</source_da>
+        <source_element_id>needit_app_cards</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-03 14:36:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58cfd502dbb40110020e5cf3ca961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task Card Clicked</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_58cfd502dbb40110020e5cf3ca961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-03 14:36:23</sys_updated_on>
+        <target_event/>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {}
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9e544d79db867bc44d2bac44d49619b0</instance_id>
+        <instance_name>dev87490</instance_name>
+        <name>sys_ux_addon_event_mapping_58cfd502dbb40110020e5cf3ca961937</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping"><sys_ux_addon_event_mapping action="INSERT_OR_UPDATE"><active>true</active><description>Executed when a user clicks a NeedIt Task card</description><name>NeedIt Task Card Clicked</name><parent_macroponent display_value="Home">223f9e631b46f41068dd5464604bcb2a</parent_macroponent><source_da display_value="nit_navigation_action">0787388adb340110020e5cf3ca96190d</source_da><source_element_id>needit_app_cards</source_element_id><sys_class_name>sys_ux_addon_event_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-03 14:36:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>58cfd502dbb40110020e5cf3ca961937</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Task Card Clicked</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_addon_event_mapping_58cfd502dbb40110020e5cf3ca961937</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-03 14:36:23</sys_updated_on><target_event/><target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {}
+}</target_payload_mapping></sys_ux_addon_event_mapping></record_update>]]></payload>
+        <payload_hash>1362443115</payload_hash>
+        <record_name>NeedIt Task Card Clicked</record_name>
+        <reverted_from/>
+        <source>f953e360db704110020e5cf3ca961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-03 14:36:23</sys_created_on>
+        <sys_id>98cf55cadbb40110020e5cf3ca96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e205eaf3a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-03 14:36:23</sys_updated_on>
+        <type>UX Add-on Event Mapping</type>
+        <update_guid>d0cf55ca0eb40110fdd222cad1c05e7e</update_guid>
+        <update_guid_history>d0cf55ca0eb40110fdd222cad1c05e7e:1362443115</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-03 14:36:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_addon_event_mapping">sys_ux_addon_event_mapping</sys_db_object>
+        <sys_id>6cb57e1c31ae4275b175cc6fef8e6051</sys_id>
+        <sys_metadata>58cfd502dbb40110020e5cf3ca961937</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task Card Clicked</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_addon_event_mapping_58cfd502dbb40110020e5cf3ca961937</sys_update_name>
+        <sys_update_version display_value="sys_ux_addon_event_mapping_58cfd502dbb40110020e5cf3ca961937">98cf55cadbb40110020e5cf3ca96197e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-03 14:36:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
